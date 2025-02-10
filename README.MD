@@ -68,3 +68,7 @@ Para ejecutar la aplicación, usa el siguiente comando:
 streamlit run app.py
 ```
 La aplicación se ejecutará en http://localhost:8501
+
+---
+
+*Originally made on https://github.com/marioruiz2003/CBIR-project
